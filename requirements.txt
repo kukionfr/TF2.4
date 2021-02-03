@@ -1,0 +1,11 @@
+tensorflow
+scipy
+scikit-image
+opencv-python
+matplotlib
+cython
+imgaug
+tensorflow-io
+# Pillow part of matplotlib
+# git+https://github.com/tensorflow/docs
+# git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI
